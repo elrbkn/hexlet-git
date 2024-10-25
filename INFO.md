@@ -1,1 +1,1 @@
-git id awesome!
+git is awesome!
